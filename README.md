@@ -1,5 +1,5 @@
 # IOT_esp32
-Ce répertoire représente notre projet d'IOT durant 12 heures.
+Ce répertoire représente notre projet d'IOT du cycle ingénieur (4ème année Polytech Sorbonne Ei2i) durant 12 heures.
 L'objectif du projet est de mettre en place 2 architectures de communication bidirectionnelle. 
 Dans un cas, nous aurons le protocole REST le second MQTT.
 
